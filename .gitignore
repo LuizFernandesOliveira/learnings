@@ -1,1 +1,8 @@
 **.class
+
+# jetbrains
+.idea
+
+learnings.iml
+
+**out**
